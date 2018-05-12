@@ -1,0 +1,29 @@
+_repo: Alden-s-Handy-Atlas-of-the-World_38457
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alden, John B. (John Berry)
+    alias: Alden, John B.
+    birthdate: 1847
+    deathdate: 1924
+    gutenberg_agent_id: '43502'
+    url: http://www.gutenberg.org/2009/agents/43502
+description: ''
+gutenberg_issued: '2011-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38457'
+  lccn: '96675327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atlases'
+- !lcc 'G'
+title: "Alden's Handy Atlas of the World\r\nIncluding One Hundred and Thirty-eight\
+  \ Colored Maps, Diagrams, Tables, Etc."
+url: http://www.gutenberg.org/ebooks/38457
