@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43502'
     url: http://www.gutenberg.org/2009/agents/43502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38457#Alden-s-Handy-Atlas-of-the-World
 gutenberg_issued: '2011-12-31'
 gutenberg_type: Text
 identifiers:
